@@ -2,7 +2,7 @@
 # Number guessing in 
 
 ## Algorithm
-
+```
 define true and false constants
 initialize int for correct
 initialize int for guess
@@ -33,5 +33,6 @@ if turns == 7:
 	print "good"
 if turns > 7:
 	print "You can do better"
+```
 
 end main
