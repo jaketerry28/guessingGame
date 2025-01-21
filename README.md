@@ -1,7 +1,15 @@
 # guessingGame
-# Number guessing in 
+
+## Libraries
+
+[ ] <stdio.h>
+
+[ ] <stdlib.h>
+
+[ ] <time.h>
 
 ## Algorithm
+
 
 define true and false constants
 initialize int for correct
